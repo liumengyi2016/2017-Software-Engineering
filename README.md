@@ -14,19 +14,19 @@
       <td>1</td>
       <td>Java1分队</td>
       <td>赵随心（组长）、刘国胜、刘畅、郝轩、闫蔓、马梦媛、张彩妮</td>
-      <td>https://github.com/mszsxq/Java1Team.git</td>
+      <td>https://github.com/mszsxq/Java1Team</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Turings</td>
       <td>王爽(组长)、吕怡浩、单鑫楠、杨柳鑫、金鑫媛、刘鹏辉、郭伟</td>
-      <td>https://github.com/Wangshuang11/SoftwareEngineering.git</td>
+      <td>https://github.com/Wangshuang11/SoftwareEngineering</td>
     </tr>
     <tr>
       <td>3</td>
       <td>AI zero</td>
       <td>宋子豪(组长)、付春江、邬洲、龚建宇、李梦宇、盛蕾</td>
-      <td>https://github.com/ZhanQiSuSuS/software.git</td>
+      <td>https://github.com/ZhanQiSuSuS/software</td>
     </tr>
     <tr>
       <td>4</td>
@@ -38,7 +38,7 @@
       <td>5</td>
       <td></td>
       <td>郑嘉馨（组长）、李秋水、王晓丹、鲍宣杞、马寅祥、闫笑千、耿一凡</td>
-      <td>https://github.com/zhengjiaxin5/software.git</td>
+      <td>https://github.com/zhengjiaxin5/software</td>
     </tr>
     <tr>
       <td>6</td>
@@ -50,7 +50,7 @@
       <td>7</td>
       <td>H5小分队</td>
       <td>范宁远(组长)、马锐、许光烨、薛文科、苏泽旺、罗晓勃</td>
-      <td>https://github.com/Fanningyuan/H5team.git</td>
+      <td>https://github.com/Fanningyuan/H5team</td>
     </tr>
     <tr>
       <td>8</td>
@@ -62,7 +62,7 @@
       <td>9</td>
       <td>人民当家作组</td>
       <td>李嘉琪(组长)、高璐、阎洁、王娜、周铭俊</td>
-      <td>https://github.com/7badggb/soft-GGB.git</td>
+      <td>https://github.com/7badggb/soft-GGB</td>
     </tr>
     <tr>
       <td>10</td>
@@ -74,7 +74,27 @@
       <td>11</td>
       <td>全都队</td>
       <td>夏炜轩(组长)、刘鑫鑫、刘静静、梁镐、李航、刘芯萌、李奕纯</td>
-      <td>https://github.com/xiaweixuan/soft-project.git</td>
+      <td>https://github.com/xiaweixuan/soft-project</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
 </div>
