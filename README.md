@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>H5小分队</td>
       <td>范宁远(组长)、马锐、许光烨、薛文科、苏泽旺、罗晓勃</td>
       <td>https://github.com/Fanningyuan/H5team.git</td>
     </tr>
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td>11</td>
-      <td></td>
+      <td>全都队</td>
       <td>夏炜轩(组长)、刘鑫鑫、刘静静、梁镐、李航、刘芯萌、李奕纯</td>
       <td>https://github.com/xiaweixuan/soft-project.git</td>
     </tr>
