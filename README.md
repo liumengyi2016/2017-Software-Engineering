@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>冒泡排序小组</td>
       <td>张文康（组长）、杨帆、安南、陈永达、回向明</td>
       <td>https://github.com/zhangwenkang6/SE</td>
     </tr>
@@ -54,45 +54,45 @@
     </tr>
     <tr>
       <td>8</td>
-      <td>Data-Structure Book for half price</td>
-      <td>毛俊杰(组长)、张苏月、张冰、张丙辰、籍家荣、孙培钧</td>
-      <td>https://github.com/schrodingercatss/software-engineering-homework</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>9</td>
+      <td>Data-Structure Book for half price</td>
+      <td>毛俊杰(组长)、张苏月、张冰、张炳辰、籍家荣、孙培钧</td>
+      <td>https://github.com/schrodingercatss/software-engineering-homework</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>人民当家作组</td>
       <td>李嘉琪(组长)、高璐、阎洁、王娜、周铭俊</td>
       <td>https://github.com/7badggb/soft-GGB</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td></td>
       <td>裴雨萌(组长)、郜瑞雪、李爽、张卓、邵贶、张朔、王盼</td>
       <td>https://github.com/PeiYumeng/group</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>全都队</td>
       <td>夏炜轩(组长)、刘鑫鑫、刘静静、梁镐、李航、刘芯萌、李奕纯</td>
       <td>https://github.com/xiaweixuan/soft-project</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>13</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>鲁冰花(组长)、李英琪、李建涛、甄时伟、柴子豪、张丽坤(5)、杨飞宇(5)、杜浩裕(5)</td>
+      <td>https://github.com/jiantaoyou/Software</td>
     </tr>
     <tr>
       <td>14</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>张子宇(组长)、张金乾、崔浩、金豪、袁世航、赵建文，组长是我</td>
+      <td>https://github.com/tushoudadaima/-IT-</td>
     </tr>
     <tr>
       <td>15</td>
