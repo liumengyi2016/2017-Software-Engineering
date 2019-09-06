@@ -55,7 +55,7 @@
     <tr>
       <td>8</td>
       <td>Data-Structure Book for half price</td>
-      <td>毛俊杰(组长)、张苏月、张冰、张丙辰、籍家荣、孙培钧</td>
+      <td>毛俊杰(组长)、张苏月、张冰、张炳辰、籍家荣、孙培钧</td>
       <td>https://github.com/schrodingercatss/software-engineering-homework</td>
     </tr>
     <tr>
