@@ -90,15 +90,15 @@
     </tr>
     <tr>
       <td>14</td>
-      <td></td>
+      <td>非IT行业队</td>
       <td>张子宇(组长)、张金乾、崔浩、金豪、袁世航、赵建文</td>
       <td>https://github.com/tushoudadaima/-IT-</td>
     </tr>
     <tr>
       <td>15</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>起名太难了</td>
+      <td>靳朋朝(组长)、姬文斌、章鹏、王谋、王子威、赵铭哲</td>
+      <td>https://github.com/jinpengchao/shi_x</td>
     </tr>
     <tr>
       <td>16</td>
