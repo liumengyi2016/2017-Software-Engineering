@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>七彩小组</td>
       <td>王晶（组长）、王琳林、安博洋、张宏伟、潘保恒、童盛、赵境博</td>
       <td>https://github.com/HeiWangJing/software-engineering</td>
     </tr>
