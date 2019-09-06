@@ -84,7 +84,7 @@
     </tr>
     <tr>
       <td>13</td>
-      <td></td>
+      <td>机智天团</td>
       <td>鲁冰花(组长)、李英琪、李建涛、甄时伟、柴子豪、张丽坤(5)、杨飞宇(5)、杜浩裕(5)</td>
       <td>https://github.com/jiantaoyou/Software</td>
     </tr>
