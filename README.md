@@ -54,9 +54,9 @@
     </tr>
     <tr>
       <td>8</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>H5小队</td>
+      <td>夏佩敏(组长)、王骞卉、张燕、郭园、冯菲珂</td>
+      <td>https://github.com/xiapeimin/html5Team</td>
     </tr>
     <tr>
       <td>9</td>
@@ -72,8 +72,8 @@
     </tr>
     <tr>
       <td>11</td>
-      <td></td>
-      <td>裴雨萌(组长)、郜瑞雪、李爽、张卓、邵贶、张朔、王盼</td>
+      <td>Across the Universe</td>
+      <td>裴雨萌(组长)、郜瑞雪、李爽、张卓、邵贶、张朔、王盼(6)</td>
       <td>https://github.com/PeiYumeng/group</td>
     </tr>
     <tr>
