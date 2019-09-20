@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>响亮小组</td>
       <td>郑嘉馨（组长）、李秋水、王晓丹、鲍宣杞、马寅祥、闫笑千、耿一凡</td>
       <td>https://github.com/zhengjiaxin5/software</td>
     </tr>
