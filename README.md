@@ -25,7 +25,7 @@
     <tr>
       <td>3</td>
       <td>AI zero</td>
-      <td>宋子豪(组长)、付春江、邬洲、龚建宇、李梦宇、盛蕾</td>
+      <td>宋子豪(组长)、付春江、邬洲、龚建宇、李梦宇、盛蕾、刘志超</td>
       <td>https://github.com/ZhanQiSuSuS/software</td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@
     <tr>
       <td>9</td>
       <td>Data-Structure Book for half price</td>
-      <td>毛俊杰(组长)、张苏月、张冰、张炳辰、籍家荣、孙培钧</td>
+      <td>毛俊杰(组长)、张苏月、张冰、张炳辰、籍家荣、孙培钧、沈卓然</td>
       <td>https://github.com/schrodingercatss/software-engineering-homework</td>
     </tr>
     <tr>
@@ -99,12 +99,6 @@
       <td>起名太难了</td>
       <td>靳朋朝(组长)、姬文斌、章鹏、王谋、王子威、赵铭哲</td>
       <td>https://github.com/jinpengchao/shi_x</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </table>
 </div>
